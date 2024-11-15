@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Geographic Routing With Energy Constraint in Wireless Multimedia Sensor Networks"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: conferences
+permalink: /publication/2019-ICEE-WSN
+excerpt: 'Energy distribution for extended network lifetime and non-interfering multipath routing are two major challenges in Wireless Multimedia Sensor Networks (WMSNs) routing. Greedy Perimeter Stateless Routing (GPSR) is a simple routing protocol that uses the minimum geographic distance to forward packets toward the sink node. However, it does not consider energy levels and employs a single path. Geographic Energy-Aware Non-Interfering Multipath Routing (GEAM) addresses this limitation by utilizing multipath routing and energy awareness, but maintaining the state of multiple non-interfering areas incurs overhead. In our proposed routing protocol, called Energy-Aware Greedy Stateless Geographic Routing (EAGSGR), we introduce two-path routing without interference by leveraging only two strategic areas. Additionally, we propose a simple method to handle dead-end nodes and cluster issues. EAGSGR demonstrated better performance compared to GPSR and GEAM in terms of QoS parameters, including end-to-end delay, average hop count, energy distribution, and packet delivery ratio.'
+date: 2019-04-30
+venue: '27th Iranian Conference on Electrical Engineering (ICEE)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8786606'
+citation: 'Zeynali Gargary, Danesh, Osali, Fariba, and Afshin Hemmatyar, Ali Mohammad. (2019). &quot;Geographic Routing With Energy Constraint in Wireless Multimedia Sensor Networks&quot; <i>27th Iranian Conference on Electrical Engineering (ICEE)</i>. '
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Energy distribution for extended network lifetime and non-interfering multipath routing are two major challenges in Wireless Multimedia Sensor Networks (WMSNs) routing. Greedy Perimeter Stateless Routing (GPSR) is a simple routing protocol that uses the minimum geographic distance to forward packets toward the sink node. However, it does not consider energy levels and employs a single path. Geographic Energy-Aware Non-Interfering Multipath Routing (GEAM) addresses this limitation by utilizing multipath routing and energy awareness, but maintaining the state of multiple non-interfering areas incurs overhead. In our proposed routing protocol, called Energy-Aware Greedy Stateless Geographic Routing (EAGSGR), we introduce two-path routing without interference by leveraging only two strategic areas. Additionally, we propose a simple method to handle dead-end nodes and cluster issues. EAGSGR demonstrated better performance compared to GPSR and GEAM in terms of QoS parameters, including end-to-end delay, average hop count, energy distribution, and packet delivery ratio.
