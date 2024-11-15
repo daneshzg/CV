@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Max Planck Institute for Informatics and Saarland University, expected 2025
-* M.S. in Information Technology, Sharif University of Technology, Tehran, Iran, 2015
-* B.S. in Information Technology, Institute for Advanced Studies in Basic Sciences (IASBS), Zanjan, Iran, 2012
-  
+* **Ph.D. in Computer Science**, Max Planck Institute for Informatics and Saarland University <span style="font-size: 0.9em;">(expected 2025)</span>
+
+* **M.S. in Information Technology**, Sharif University of Technology <span style="font-size: 0.9em;">(Tehran, Iran, 2015)</span>
+
+* **B.S. in Information Technology**, Institute for Advanced Studies in Basic Sciences (IASBS) <span style="font-size: 0.9em;">(Zanjan, Iran, 2012)</span>
+
 Work experience
 ======
 * **MPI for Informatics, Saarbrücken** - **Ph.D. Student** _(Saarbrücken, Germany)_  
