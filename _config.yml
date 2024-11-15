@@ -21,22 +21,22 @@ url                      : https://daneshzg.github.io # the base hostname & prot
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "danesh.jpg"
+  name             : "Danesh Zeynali Gargary"
+  pronouns         : "He/Him"  
+  bio              : "A PhD student at the Max Planck Institute für Informatik."
+  location         : "Saarbrücken, Germany"
+  employer         : "Max Planck Institute für Informatik."
+  URI              : "https://www.mpi-inf.mpg.de/departments/inet"
+  email            : "dzeynali@mpi-inf.mpg.de" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : #"https://www.mpi-inf.mpg.de/departments/inet/people/danesh-zeynali?sword_list%5B0%5D=Master&no_cache=1"
+  googlescholar    : "https://scholar.google.com/citations?user=eiS8bhoAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-3818-2113"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "daneshzg"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/danesh-zeynali/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -76,12 +76,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  # books:
+  #  title: 'Books'
+  # manuscripts:
+  #  title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  technical_reports:
+    title: 'Technical '
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -130,7 +132,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
