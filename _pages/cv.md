@@ -11,54 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Ph.D. in Computer Science, Max Planck Institute for Informatics and Saarland University, expected 2025
+* M.S. in Information Technology, Sharif University of Technology, Tehran, Iran, 2015
+* B.S. in Information Technology, Institute for Advanced Studies in Basic Sciences (IASBS), Zanjan, Iran, 2012
+  
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **MPI for Informatics, Saarbrücken** - **Ph.D. Student** _(Saarbrücken, Germany)_  
+  _October 2020 - to date_
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **3G/4G Packet Core Optimization Engineer** - MTN Irancell Telecommunications Company _(Tehran, Iran)_  
+  _Jan 2019 - Aug 2020_
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **3G/4G Packet Core Planning Engineer** - RighTel Communications _(Tehran, Iran)_  
+  _Sep 2016 - Jan 2019_
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **R&D Engineer** - Partov Tamas Novin Co. (PARMAN) _(Tehran, Iran)_  
+  _Sep 2014 - Sep 2016_
+
+* **Summer Internship** - Iran Telecommunication Research Center _(Tehran, Iran)_  
+  _Jun 2009 - Sep 2009_
+
+
+
